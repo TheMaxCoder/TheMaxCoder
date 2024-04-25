@@ -4,7 +4,6 @@
 
 💼 **Remote Freelance Android Developer** (Jan 2017 – Present)
   - 📱 Maintained and enhanced existing applications with **90M+ downloads** while developing new apps from scratch, garnering **1M+ downloads**.
-  - 🛠️ Technologies: Kotlin, Java, MVVM, MVI, Retrofit, Kotlin Coroutines, Room, Dagger2-hilt.
 
 💻 Skills: Kotlin, Java, Jetpack Compose, Android Architecture Components (ViewModel,
 LiveData), Material Design, Kotlin Coroutines, Android Jetpack (Room, Hilt, Paging), Retrofit, Koin.

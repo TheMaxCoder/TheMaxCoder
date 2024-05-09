@@ -1,9 +1,9 @@
 ### Hi there, I'm Atiq 👋
 
-👨‍💻 I'm an **Android Developer** with **5+ years of experience** crafting production-ready apps, primarily in **Kotlin**.
+👨‍💻 I'm an **Android Developer** with **7+ years of experience** crafting production-ready apps, primarily in **Kotlin**.
 
 💼 **Remote Freelance Android Developer** (Jan 2017 – Present)
-  - 📱 Maintained and enhanced existing applications with **90M+ downloads** while developing new apps from scratch, garnering **1M+ downloads**.
+  - 📱 Maintained and enhanced existing applications with **90M+ downloads** while developing **new apps** from scratch, garnering **1M+ downloads**.
 
 💻 Skills: Kotlin, Java, Jetpack Compose, Android Architecture Components (ViewModel,
 LiveData), Material Design, Kotlin Coroutines, Android Jetpack (Room, Hilt, Paging), Retrofit, Koin.

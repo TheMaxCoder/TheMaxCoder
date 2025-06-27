@@ -2,7 +2,7 @@
 
 👨‍💻 I'm an **Android Developer** with **7+ years of experience** crafting production-ready apps, primarily in **Kotlin**.
 
-💼 **Remote Freelance Android Developer** (Jan 2017 – Present)
+💼 **Remote Android Developer** (Jan 2017 – Present)
   - 📱 Maintained and enhanced existing applications with **90M+ downloads** while developing **new apps** from scratch, garnering **1M+ downloads**.
 
 💻 Skills: Kotlin, Java, Jetpack Compose, Android Architecture Components (ViewModel,

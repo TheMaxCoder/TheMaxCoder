@@ -8,9 +8,7 @@ I'm a **Senior Android Engineer** with **10+ years of experience** building, shi
 - Rewrote **Simple Drums Kit (5M+ downloads)** from Java to Kotlin in **3.5 months**, replacing its SoundPool audio engine with **Oboe**.
 
 ### Technologies
-Kotlin, Java, Coroutines, MVVM, Room, Hilt, Retrofit, Google Play Billing, and native audio with Oboe.
-
-I also build personal projects with **Jetpack Compose**.
+My production work includes Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Room, Hilt, Retrofit, Google Play Billing, and native audio with Oboe.
 
 ### Community
 **14k+ Stack Overflow reputation**, with contributions focused on Android. I've also given talks at Google Developer Group events.
@@ -19,3 +17,4 @@ I also build personal projects with **Jetpack Compose**.
 A **full-time Android engineering role**, remote or local in Islamabad, Pakistan.
 
 [LinkedIn](https://www.linkedin.com/in/themaxcoder) · [Stack Overflow](https://stackoverflow.com/users/5699956/atiq)
+

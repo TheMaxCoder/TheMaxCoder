@@ -5,7 +5,7 @@ I'm a **Senior Android Engineer** with **10+ years of experience** building, shi
 ### Production experience
 - Sole Android engineer at **TPV Apps**, responsible for app development, maintenance, and Google Play releases.
 - Built **Drums Maker** and **Simple Drums Pro** from scratch; each reached **1M+ downloads**.
-- Rewrote **Simple Drums Kit (5M+ downloads)** from Java to Kotlin in **3.5 months**, replacing its SoundPool audio engine with **Oboe**.
+- Rewrote **Simple Drums Kit (10M+ downloads)** from Java to Kotlin in **3.5 months**, replacing its SoundPool audio engine with **Oboe**.
 
 ### Technologies
 My production work includes Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Room, Hilt, Retrofit, Google Play Billing, and native audio with Oboe.
